@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-tf-lite-camera.git",
-    "baseUrl": "https://github.com/github_account/react-native-tf-lite-camera"
+    "url": "git+https://github.com/aarshad786/react-native-tf-lite-camera.git",
+    "baseUrl": "https://github.com/aarshad786/react-native-tf-lite-camera"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Aarshad Devani",
+    "email": "aarshadd@outlook.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
